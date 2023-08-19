@@ -2,20 +2,20 @@
   "name": "goit-js-hw-08",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://mmrbl.github.io/goit-js-hw-08",
+  "homepage": "https://ITonkovyd.github.io/goit-js-hw-08",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mmrbl/goit-js-hw-08.git"
+    "url": "git+https://github.com/ITonkovyd/goit-js-hw-08.git"
   },
   "keywords": [],
-  "author": "Ihor <itotonk1@gmail.com>",
+  "author": "Ihor <ihor.tonovyd@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mmrbl/goit-js-hw-08/issues"
+    "url": "https://github.com/ITonkovyd/goit-js-hw-08/issues"
   },
   "dependencies": {
     "@vimeo/player": "^2.17.1",
